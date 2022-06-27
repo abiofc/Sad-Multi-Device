@@ -52,19 +52,18 @@ https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
-*❉ Fahri:*
-https://github.com/FahriAdison
+*❉ AbiXynz:*
+https://github.com/abituru
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
-*❉ Kannachan:*
 *❉ Johannes:*
 *❉ Krisna:*
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://Instagram.com/abityru24",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://Instagram.com/abityru24", 
+    title: 'Simple Bot',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
